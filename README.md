@@ -254,7 +254,7 @@ This enabled modeling of **cross-district pest spread dynamics**, unlike traditi
 
 ## 👨‍💻 Author
 
-**Varyam Kaur Rai**<br>
+**Sajal Goel**<br>
 B.Tech CSE (Data Science)<br>
 Punjab Engineering College (PEC), Chandigarh
 
