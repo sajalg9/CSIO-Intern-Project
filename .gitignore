@@ -6,6 +6,7 @@ __pycache__/
 .virtual_documents/
 
 
+
 # Large generated folders
 kcc_lid_output/
 kcc_lang_chart/
