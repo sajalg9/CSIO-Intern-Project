@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Large generated folders
+kcc_lid_output/
+kcc_lang_chart/
+anaconda_projects/
+
+# Models
+*.pth
+
+# Large CSVs
+daily_weather_all_districts.csv
+monthly_weather_all_districts.csv
+merged_output.csv
+monthly_spatiotemporal_data.csv
+df.csv
